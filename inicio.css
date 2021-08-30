@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    font-family: 'Montserrat';
+    color: #2A363B;
+  }
+
+h2, h3, h4, h5{
+    margin-top: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    color: #2A363B;
+    margin-bottom: 2%;
+  }
+  
+  html {
+    background-color: #7395AE;
+  }
+  
+  .Navegation {
+    display: flex;
+  }
+  
+  header h1 {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #557A95;
+    border-radius: 0.5rem;
+  }
+
+  .navegation a{
+    font-size: 1.8rem;
+    margin-right: 1.4rem;
+    color: #2A363B;
+    font-weight: bold;
+    text-decoration: none;  
+    padding: 1rem 1rem 1rem 1rem;
+  }
+  
+  .navegation a:hover{
+    color: #B1A296;
+    transition: 0.5s;
+  }
+  
+
+  h6 {
+    text-align: center;
+  }
+
+  
